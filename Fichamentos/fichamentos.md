@@ -1,0 +1,17 @@
+# Fichamentos
+
+ 1. [Personas and Analytics: A Comparative User Study of Efficiency and Effectiveness for a User Identification Task](https://dl.acm.org/doi/10.1145/3313831.3376770)
+ 2. [Does Mutation Testing Improve Testing Practices?](https://ieeexplore.ieee.org/document/9402038)
+ 3. [Characterizing High-Quality Test Methods: A First Empirical Study](https://arxiv.org/pdf/2203.12085.pdf)
+ 4. [Correlations among Software Testability Metrics](https://dl.acm.org/doi/10.1145/3439961.3439972)
+ 5. [Software Quality Practices in Growing Startups: A Qualitative Study](https://dl.acm.org/doi/10.1145/3493244.3493254)
+ 6. [Exploratory testing of apps with opportunity maps](https://dl.acm.org/doi/10.1145/3493244.3493248)
+ 7. [How far are we from testing a program in a completely automated way, considering the mutation testing criterion at unit level?](https://dl.acm.org/doi/10.1145/3439961.3439977)
+ 8. [AGILE SOFTWARE DEVELOPMENT](https://www.ijeast.com/papers/73-78,Tesma512,IJEAST.pdf)
+ 9. [Towards Adopting Software Quality Assurance in Agile Development Methodology](https://turcomat.org/index.php/turkbilmat/article/view/1158/937)
+ 10. [Agile Methodology Vs. Traditional Waterfall SDLC: A case study on Quality Assurance process in Software Industry](https://ieeexplore.ieee.org/document/9614779)
+ 11. [Software Exploratory Testing: Present, Problem and Prospect](https://ieeexplore.ieee.org/document/9695695)
+ 12. [Implementation of Continuous Integration and Continuous Delivery (CI/CD) on Automatic Performance Testing](https://ieeexplore.ieee.org/document/9527496)
+ 13. [Leadership Styles in Agile Teams: An Analysis Based on Experience](https://ieeexplore.ieee.org/document/9712259)
+ 14. [Acceptance Testing Optimization Method for Continuous Delivery](https://ieeexplore.ieee.org/document/9741963)
+ 15. [Developing Software Using Agile and Design Thinking Framework](https://ieeexplore.ieee.org/document/9458007)

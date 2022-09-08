@@ -1,17 +1,18 @@
-# Nome do projeto
+# O Processo de Teste de Mutação Combinado com o Desenvolvimento Orientado a Testes melhora a precisão dos casos de teste em capturar bugs?
 
 Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Arthur Henrique Souza Braga
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Cleiton Silva Tavares
+* Jose Laerte Pires Xavier Junior
+* Simone de Assis Alves da Silva
+
+* Nome do orientador de TCC II (não tem ainda)
 
 ## Instruções de Replicação/Reprodução
 

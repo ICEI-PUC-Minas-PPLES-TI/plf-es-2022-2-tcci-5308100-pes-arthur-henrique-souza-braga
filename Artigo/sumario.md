@@ -1,9 +1,10 @@
-# Título do trabalho
+# O Processo de Teste de Mutação Combinado com o Desenvolvimento Orientado a Testes melhora a precisão dos casos de teste em capturar bugs?
 
 1. Arthur Henrique Souza Braga
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+* Cleiton Silva Tavares
+* Jose Laerte Pires Xavier Junior
+* Simone de Assis Alves da Silva
 
 ## Introdução
 
