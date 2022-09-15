@@ -8,11 +8,11 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Resolver este problema é relevante por que...
-1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+1. A área da Engenharia de Software tratada neste trabalho é Teste de Software TDD combinado à mutação de teste
+2. O problema que este trabalho busca resolver nessa área é descobrir se times que utilizam as duas técnicas combinadas escrevem casos de testes mais precisos em capturar falhas
+3. Resolver este problema é relevante por que poucos estudos unem as duas técnicas e a avaliam se a combinação das duas melhora a precisão de casos de testes
+4. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
+5. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
 
 ## Fundamentação Teórica
 
