@@ -11,8 +11,8 @@
 1. A área da Engenharia de Software tratada neste trabalho é Teste de Software TDD combinado à mutação de teste
 2. O problema que este trabalho busca resolver nessa área é descobrir se times que utilizam as duas técnicas combinadas escrevem casos de testes mais precisos em capturar falhas
 3. Resolver este problema é relevante por que poucos estudos unem as duas técnicas e a avaliam se a combinação das duas melhora a precisão de casos de testes
-4. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
-5. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
+4. Será explorado se a combinação das duas práticas resultaria em menores taxas de defeitos e falhas e se a união de ambas resultaria em melhores beneficios para o desenvolvimento de software.
+5. Para atingir o objetivo desta pesquisa será necessário metrificar a qualidade geral dos testes, a capacidade dos testes em encontrar defeitos e falhas e avaliar se os defeitos são encontrados em estágios mais primários durante o processo de desenvolvimento de software.
 
 ## Fundamentação Teórica
 
