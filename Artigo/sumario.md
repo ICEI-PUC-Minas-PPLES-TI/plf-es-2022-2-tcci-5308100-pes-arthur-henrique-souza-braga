@@ -8,17 +8,18 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é Teste de Software TDD combinado à mutação de teste
+1. A área da Engenharia de _Software_ tratada neste trabalho é Teste de Software TDD combinado à mutação de teste
 2. O problema que este trabalho busca resolver nessa área é descobrir se times que utilizam as duas técnicas combinadas escrevem casos de testes mais precisos em capturar falhas
-3. Resolver este problema é relevante por que poucos estudos unem as duas técnicas e a avaliam se a combinação das duas melhora a precisão de casos de testes
-4. Será explorado se a combinação das duas práticas resultaria em menores taxas de defeitos e falhas e se a união de ambas resultaria em melhores beneficios para o desenvolvimento de software.
-5. Para atingir o objetivo desta pesquisa será necessário metrificar a qualidade geral dos testes, a capacidade dos testes em encontrar defeitos e falhas e avaliar se os defeitos são encontrados em estágios mais primários durante o processo de desenvolvimento de software.
+3. Resolver este problema é relevante por que poucos estudos unem as duas técnicas com o objetivo de encontrar melhores padrões de qualidade de _software_ e a avaliam se a combinação das duas melhora a precisão de casos de testes
+4. O objetivo geral desta pesquisa  é explorar se a combinação das duas práticas resultaria em menores taxas de defeitos e falhas, e se a união de ambas resultaria em melhores benefícios para o desenvolvimento de software.
+5. Os objetivos espec ́ıficos s ̃ao metrificar a qualidade geral dos testes e a capacidade dos mesmos em encontrar defeitos e falhas nos projetos de desenvolvimento software em ambientes de testes como pre-produção e ambiente de desenvolvimento.
 
 ## Fundamentação Teórica
 
-1. O conceito/teoria principal associado a este trabalho é ....  A sua definição neste trabalho  é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria secundário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
-1. O conceito/teoria terciário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
+1. O Teste de Software é dos pilares da Engenharia de Software e tem como sua responsabilidade, investigar e fornecer informações sobre a Qualidade de Software pelo autor Myers 2011
+2. O termo Qualidade na área é bastante amplo e possui diferentes definições na literatura, porém, o Glossário da IEEE define a Qualidade como "Grau de conformidade de um sistema, componente ou processo com as necessidades e expectativas de clientes ou usuários" pela IEEE 1990.
+3. Test Driven Development (TDD) ou em português Desenvolvimento guiado por testes é uma técnica de desenvolvimento de _software_ que tem como objetivo principal, criar casos de teste antes da implementação do Software propriamente pelo autor Kent 2002.
+4. Mutação de teste também é uma técnica e prática da área de Teste de {\itshap software} que tem como seu objetivo testar a qualidade dos testes pelo autor Woodward 1993.
 
 ## Trabalhos Relacionados
 
