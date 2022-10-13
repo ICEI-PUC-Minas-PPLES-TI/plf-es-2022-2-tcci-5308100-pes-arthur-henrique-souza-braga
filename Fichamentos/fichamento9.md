@@ -1,24 +1,22 @@
 
-# Mutation Testing Process Combined with Test-Driven Development in .NET Environment
+# Extending the Space of Software Test Monitoring: Practical Experience
 
-
-A. Cauevic, S. Punnekkat and D. Sundmark, "Quality of Testing in Test Driven Development," Eighth International Conference on the Quality of Information and Communications Technology, 2012, 6 pages, doi: 10.1109/QUATIC.2012.49. doi: [10.1109/QUATIC.2012.49](https://ieeexplore.ieee.org/abstract/document/6511824)
+M. Lasynskyi and J. Sosnowski, "Extending the Space of Software Test Monitoring: Practical Experience," in IEEE Access, vol. 9, pp. 166166-166183, 18 pages, 2021, doi: [10.1109/ACCESS.2021.3136138.](https://ieeexplore.ieee.org/abstract/document/9652520)
 
 ## 1. Fichamento de Conteúdo
 
-
-O artigo consiste na realização de um estudo para avaliar se a aplicação da prática do TDD influência na qualidade dos testes escritos pelos desenvolvedores. Principalmente, os pesquisadores perceberam que pode-se ver uma diferença nos casos de teste _"test first"_ entre o _"test last"_ é quase inexistente, se cobertura de código e pontuação de mutação indicadores são usados para comparação.
+Esse estudo consiste na ideia utilizar algumas práticas de teste, entre elas TDD e mutação de teste, para avaliar sistemas que precisão de um alto monitoramento, geralmente apoiados pelo _site reabillity_. Foi analisado um amplo escopo de dados coletados durante o teste de um projeto industrial complexo. Este estudo provou a utilidade dos repositórios e técnicas de software na avaliação melhoria processos de teste de software para suportar estes sistemas.
 
 ## 2. Fichamento Bibliográfico 
 
 
-* _Mutation testing_ (mutação de teste) é uma prática de teste de software que tem como objetivo testar as suites de teste do sistema original. (página 1).
+* _Site reabillity_ (reabilidade do site) é uma área da Engenharia de Software para suportar sistemas complexos em tempo intregral. (página 1).
 * _Test-driven development_ (Desenvolvimento guiado a testes)  metódo e prática de escrever testes antes da implementação do _software_ (página 1).
-* _Software Quality_ (qualidade de software) é a conformidade com os requisitos de software. (página 1).
+* _Bug diagnostics_ (Diagnostico de defeitos) é uma prática de extrair resultados dos defeitos e interpretar futuras ações. (página 1).
 
 ## 3. Fichamento de Citações 
 
 
-* _"One of obstacles in the mutation testing process is a long execution time and a high computational complexity. The long delay before obtaining mutation results is especially hardly acceptable in the TDD method."_
-* _"There are also different directions toward the problem that could be considered. The first one is shortening of the waiting time."_
-* _"Both directions were considered in the context of a mutation testing combining with the TDD approach realized in the .NET environment. It needs an effective and user friendly tool support. "_
+* _"Software testing is still a challenging problem. Many relevant studies are reported in the literature. They mostly focus on test algorithms, test models, test coverage and diagnosability"_
+* _"Event and performance logs as well as other software repositories can enhance the analysis of test results. Here, derivation of general and application-oriented features characterizing tests is needed."_
+* _"The key point in our studies is the introduced original analysis method supported with an efficient framework for test management and monitoring."_
