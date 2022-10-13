@@ -7,14 +7,14 @@ Derezińska, A., Trzpil, P. Mutation Testing Process Combined with Test-Driven D
 ## 1. Fichamento de Conteúdo
 
 
-O artigo consiste na realização de um estudo para avaliar um caso de estudo do mundo real com equipes que fazem o uso de TDD e mutação de teste com equipes que somente utilizam o TDD de forma isolada porém em um ambiente de .NET. 
+O artigo consiste na realização de um estudo para avaliar um caso de estudo do mundo real com equipes que fazem o uso de TDD e mutação de teste com equipes que somente utilizam o TDD de forma isolada porém em um ambiente de .NET. A intenção deste estudo é avaliar grupos diferentes de desenvolvedores que utilizam TDD e mutação de teste e grupos que utilizam TDD de forma isolada. O contexto é fixado em .NET e um contexto específico de equipes da mesma organização. Os pesquisadores notaram que times que utilizam TDD mais mutação de teste possem melhores e escrevem melhores casos de testes, mais capazes de capturar erros e defeitos.
 
 ## 2. Fichamento Bibliográfico 
 
 
 * _Mutation testing_ (mutação de teste) é uma prática de teste de software que tem como objetivo testar as suites de teste do sistema original. (página 1).
 * _Test-driven development_ (Desenvolvimento guiado a testes)  metódo e prática de escrever testes antes da implementação do _software_ (página 1).
-* _Software Quality_ (qualidade de software) é a conformidade com os requisitos de software. (página 1).
+* _.NET Environment_ (ambiente .NET) é um ambiente de desenvolvimento que utiliza a linguagem de programação C# .NET. (página 1).
 
 ## 3. Fichamento de Citações 
 
