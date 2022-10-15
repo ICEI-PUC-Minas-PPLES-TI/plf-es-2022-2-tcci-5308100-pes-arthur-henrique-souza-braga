@@ -2,7 +2,7 @@
 # Characterizing High-Quality Test Methods: A First Empirical Study
 
 
-Veloso, Victor; Hora, Andre. Characterizing High-Quality Test Methods: A First Empirical Study, 9th IEEE/ACM International Conference on Mining Software Repositories (MSR'22), 5 pages, 2022. doi: [arXiv:2203.12085](
+Veloso, Victor; Hora, Andre. Characterizing High-Quality Test Methods: A First Empirical Study, 9th IEEE/ACM International Conference on Mining Software Repositories (MSR'22), 5 pages, 2022. doi: [10.1145/3524842.3529092](
 https://doi.org/10.48550/arXiv.2203.12085)
 
 ## 1. Fichamento de Conteúdo
