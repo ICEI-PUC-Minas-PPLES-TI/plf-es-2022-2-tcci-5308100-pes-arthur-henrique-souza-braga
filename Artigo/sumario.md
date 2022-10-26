@@ -23,9 +23,9 @@
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é ...., publicado no ano ..., por que ....
-1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
-1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
+1. O trabalho mais relacionado é Roman e Mnich _Test-driven development with mutation testing – an experimental study_, publicado no ano 2021, por que propõe estudar a utilização de TDD com Mutação de Teste.
+2. O segundo trabalho mais relacionado é Derezínska e Trzpil _Mutation Testing Process Combined with Test-Driven Development in .NET Environment_, publicado no ano 2015, por que por que propõe estudar a utilização de TDD com Mutação de Teste porém em ambiente .NET apenas.
+3. O terceiro trabalho mais relacionado é Veloso e Hora _Characterizing High-Quality Test Methods: A First Empirical Study_, publicado no ano 2022,  por que propões estudar a qualidade dos casos de teste.
 
 ## Materiais e Métodos
 
