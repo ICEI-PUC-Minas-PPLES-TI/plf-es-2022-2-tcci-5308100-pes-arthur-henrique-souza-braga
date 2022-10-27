@@ -29,8 +29,8 @@
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
-1. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
+1. O tipo de pesquisa adotado neste trabalho é uma pesquisa descritiva, baseada em casos de estudos participativos com objetivo de coletar dados qualitativos acerca da utilização das duas práticas combinadas de TDD e mutação de teste e TDD isoladamente.
+1. Os materiais utilizados neste trabalho são X equipes da disciplina de Laboratório de Programação Modular e Teste de _Software_ do curso de Engenharia de Software da Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
 1. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
 1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
 1. As etapa de execução do trabalho são .... [listar as etapa de execução]
