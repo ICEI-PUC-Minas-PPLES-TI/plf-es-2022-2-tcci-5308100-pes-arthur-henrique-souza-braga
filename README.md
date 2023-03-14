@@ -12,7 +12,7 @@ O crescimento da área de qualidade de _software_ nos últimos anos tem gerado d
 * Jose Laerte Pires Xavier Junior
 * Simone de Assis Alves da Silva
 
-* Cleiton Silva Tavares
+* Nome do orientador de TCC II (não tem ainda)
 
 ## Instruções de Replicação/Reprodução
 
