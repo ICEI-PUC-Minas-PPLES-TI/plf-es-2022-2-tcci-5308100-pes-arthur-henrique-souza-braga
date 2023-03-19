@@ -9,6 +9,6 @@ Você trabalha em uma empresa de consultoria de software especialista em qualida
 Os Engenheiros de Requisitos e Arquitetos de Software já iniciaram uma documentação inicial de como o software deve ser feito. Veja abaixo o diagrama de classe e o caso de uso para execução do desenvolvimento.
  
 
-[Diagrama de classes](diagrama.png)
+![Diagrama de classes](diagrama.png)
 
-[Caso de uso](caso_uso.png)
+![Caso de uso](caso_uso.png)
