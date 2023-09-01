@@ -17,4 +17,3 @@
 ## REUNIÃO 01/09/2023
 - Revisar o minicurso para adicionar exemplos de teste de mutante e  teste unitário ( assert.equals())
 - Pensar no roteiro e lembrar das pessoas que chegam atrasadas durante o experimento
-- 
