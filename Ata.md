@@ -11,4 +11,10 @@
 
 ## Reunião  25/08/2023
 - O aluno apresentou um novo artigo do zero. Ele alterou desde o tcc 1;
-- O aluno ficou de reescrever os objetivos específicos. 
+- O aluno ficou de reescrever os objetivos específicos.
+
+
+## REUNIÃO 01/09/2023
+- Revisar o minicurso para adicionar exemplos de teste de mutante e  teste unitário ( assert.equals())
+- Pensar no roteiro e lembrar das pessoas que chegam atrasadas durante o experimento
+- 
