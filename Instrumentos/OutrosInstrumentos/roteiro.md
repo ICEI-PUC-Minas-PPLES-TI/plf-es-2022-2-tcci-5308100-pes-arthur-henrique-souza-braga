@@ -10,3 +10,5 @@
 - 10 minutos: responder questionário
 
 Total: 90 minutos
+
+Caso aluno chegue mais de 10 minutos atrasado ele poderá ser desconsiderado do experimento já que não teve fase de explicação de conceitos bem definida. Será lembrado na semana anterior que acontecerá uma experimento e que os alunos devem chegar no horário correto. Aulas acontecem no segundo horário facilitando a entrada dos alunos na sala.
