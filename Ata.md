@@ -17,3 +17,13 @@
 ## REUNIÃO 01/09/2023
 - Revisar o minicurso para adicionar exemplos de teste de mutante e  teste unitário ( assert.equals())
 - Pensar no roteiro e lembrar das pessoas que chegam atrasadas durante o experimento
+
+
+## REUNIÃO 15/09/2023
+- Criar o class room para o experimento piloto;
+- Melhorar o código  de teste;
+- Verificar o laboratório;
+- O orientador  fará a revisão completa do texto para que o aluno possa fazer as correções;
+- O experimento piloto será aplicado no dia 26/09/2023 - Turma de Programção Modula. Aula às   10:40;
+- Possibilidade de aplicar o experimento final no dia 09/10/2023**;
+- A versão final deverá ser entregue para aval do orientador até dia 17/11/2023; 
