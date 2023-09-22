@@ -27,4 +27,8 @@
 - O orientador fará a revisão  do formuário do experimento; 
 - O experimento piloto será aplicado no dia 26/09/2023 - Turma de Programção Modula. Aula às   10:40;
 - Possibilidade de aplicar o experimento final no dia 09/10/2023**;
-- A versão final deverá ser entregue para aval do orientador até dia 17/11/2023; 
+- A versão final deverá ser entregue para aval do orientador até dia 17/11/2023;
+
+  # Reunião 22/09/2023
+  - O experimento teve que ser remarcado, pois o aluno teve problema de saúde;
+  - O experimento foi remarcado para  o dia 03/10/2023 com a turma de Programação Modular;
