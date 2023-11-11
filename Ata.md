@@ -34,4 +34,4 @@
   - O experimento foi remarcado para  o dia 03/10/2023 com a turma de Programação Modular;
 # Reunião 11/11/2003
 - O professor deixou descrito dentro do artigo no overleaf o que deveria ser feito;
-- 
+
