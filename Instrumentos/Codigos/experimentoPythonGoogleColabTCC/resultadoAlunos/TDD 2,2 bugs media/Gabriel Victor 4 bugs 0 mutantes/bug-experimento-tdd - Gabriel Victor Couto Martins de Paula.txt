@@ -1,0 +1,58 @@
+BUG #1:
+Descrição do problema:
+
+Na classe usuário, exemplificada, não possui o atributo CPF
+
+Resultado atual:
+
+Usuário sendo instanciado sem o atributo CPF
+
+Resultado esperado:
+
+Que exista o campo CPF em Usuário assim como no diagrama
+
+------
+
+BUG #2:
+Descrição do problema:
+
+Em Livro, o metodo get_ano_publicação() incrementa desnecessasriamente o ano do livro antes de atribuir o real valor a variavel
+
+Resultado atual:
+
+Um ano de publicação atualizado como 2022, se torna 2023
+
+Resultado esperado:
+
+O Ano de publicação deve ser exatamente o mesmo passado por parametro na atribuição
+
+-----
+
+BUG #3:
+Descrição do problema:
+
+Em Livro, o método o método set_disponivel, decrementa o valor passado por parâmetro desnecessariamente, antes da 
+atribuição
+
+Resultado atual:
+
+O parâmetro disponivel de livro sofre um decremento do -1 a cada atribuição
+
+Resultado esperado:
+
+Não realizar decremento do atributo
+
+-----
+
+BUG #4:
+Descrição do problema:
+
+Em Livro, o método o método set_disponivel, não possui uma definição de tipo correta, fazendo com que o método aceite qualquer valor para o atributo disponivel da classe
+
+Resultado atual:
+
+Tipos incorretos atribuidos a uma variavel que foi pensada para ser booleana
+
+Resultado esperado:
+
+O método deveria aceitar somente tipo booleanos como parâmetro e o atributo disponivel da classe deveria ter o tipo explicitado como booleano

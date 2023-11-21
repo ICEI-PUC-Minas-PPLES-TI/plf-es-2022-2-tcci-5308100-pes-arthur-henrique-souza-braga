@@ -1,0 +1,11 @@
+﻿BUG #1:
+Descrição do problema:
+
+
+O resultado ano está diferente do esperado
+
+
+Resultado atual:
+O ano está sendo retornado como 2022
+Resultado esperado:
+o ano deveria ser 2023

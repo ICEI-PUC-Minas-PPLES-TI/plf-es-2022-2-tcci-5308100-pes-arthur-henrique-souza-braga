@@ -1,0 +1,57 @@
+
+
+BUG #1:
+Descrição do problema:
+
+Na classe livro o método set_ano_publicacao está adicionando um ano a mais no atributo ano_publicacao
+
+Resultado atual:
+
+por conta da soma, o ano de publicação está sendo comparado errôneamente
+
+Resultado esperado:
+
+Ano de publicação deve ser exibido sem somar um ano a mais.
+
+BUG #2:
+Descrição do problema:
+
+Na classe livro o método set_disponivel está subtraíndo 1 do valor teóriacamente booleano.
+
+Resultado atual:
+
+por conta da subtração do booleano (false), o valor atribuído é -1.
+
+Resultado esperado:
+
+false
+
+BUG #4
+
+Descrição do problema:
+Autor não existe mais
+
+Resultado atual:
+Testes não funcionam por conta do construtor
+
+Resultado esperado:
+Testes funcionarem sem autor
+
+BUG #5
+
+Descrição do problema:
+Livro não pode ser adicionado no vetor
+
+Resultado atual:
+Livro não foi adicionado no vetor
+
+Resultado esperado:
+Livro adicionado no vetor
+BUG #6
+
+Descrição do problema:
+
+Resultado atual:
+
+
+Resultado esperado:

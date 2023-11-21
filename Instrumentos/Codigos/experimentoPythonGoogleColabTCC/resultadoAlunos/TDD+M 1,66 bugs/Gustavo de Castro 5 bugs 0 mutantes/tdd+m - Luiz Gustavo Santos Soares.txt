@@ -1,0 +1,144 @@
+BUG #1:
+	Descrição do problema:
+		Na classe livro, o método para salvar o ano publicado adiciona 1 ao valor inserido.
+	Resultado atual:
+		O ano é salvo com +1 ao valor inserido
+	Resiltado Esperado:
+		Deveria salvar o valor inserido
+	Log de erro:
+======================================================================
+FAIL: test_set_ano_publicacao (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 31, in test_set_ano_publicacao
+    self.assertEqual(livro.get_ano_publicacao(), 2022)
+AssertionError: 2023 != 2022
+
+BUG #2:
+	Descrição do problema:
+		Na classe livro, o método para salvar o valor de disponibilidade está realizando uma subtração, deste modo, o valor passado de true ou false será interpretado errniamente
+	Resultado atual:
+		A subtração faz com que true(1) seja interpretado como false(0) e false seja salvo como -1, valor númerico sem relação a interpretação booleana
+	Resiltado Esperado:
+		Deveria salvar o valor inserido em sua forma booleana, ou seja, true ou false sem a subtração
+	Log de erro:
+======================================================================
+FAIL: test_set_disponivel (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 40, in test_set_disponivel
+    self.assertFalse(livro.is_disponivel())
+AssertionError: -1 is not false
+
+BUG #3:
+	Descrição do problema:
+		Index out of bound no vetor de livros dentro da classe usuário
+	Resultado atual:
+		Não consegue navegar pelo vetor ois tenta acessar valor fora dos limites
+	Resiltado Esperado:
+		Visualizar os a lista de livros adequadamente
+	Log de erro:
+======================================================================
+ERROR: test_remover_livro (test_usuario.test_usuario)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_usuario.py", line 21, in test_remover_livro
+    usuario.remover_livro(livro)
+  File "/content/usuario.py", line 10, in remover_livro
+    if self.livros_emprestados[i] == livro:
+IndexError: list index out of range
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (errors=1)
+
+BUG #4:
+	Descrição do problema:
+		Após a remoção de autor da clsase usuário, todos testes que envolviam este atributo passaram a falhar.
+	Resultado atual:
+		Erros com o atributo autor
+	Resiltado Esperado:
+		Atributo não precisa ser mais testado e contrutores e outros atributos que acessem o método devem ser adequados ao novo sistema.
+	Log de erro:
+
+======================================================================
+ERROR: test_get_ano_publicacao (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 25, in test_get_ano_publicacao
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_get_autor (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 16, in test_get_autor
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_get_titulo (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 7, in test_get_titulo
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_is_disponivel (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 34, in test_is_disponivel
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_set_ano_publicacao (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 29, in test_set_ano_publicacao
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_set_autor (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 20, in test_set_autor
+    livro = Livro("Título do Livro", "Autor Antigo", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_set_disponivel (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 38, in test_set_disponivel
+    livro = Livro("Título do Livro", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+======================================================================
+ERROR: test_set_titulo (test_livro.TestLivro)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/content/test_livro.py", line 11, in test_set_titulo
+    livro = Livro("Título Antigo", "Autor do Livro", 2023, True)
+TypeError: Livro.__init__() takes 4 positional arguments but 5 were given
+
+----------------------------------------------------------------------
+
+
+BUG #5:
+	Descrição do problema:
+		Na classe usuário, ao tentar realizar os testes de mutação, percebemos que a classe usuário não tinha se adequado as mudanças de requisitos da classe Livro.
+	Resultado atual:
+		Tenta criar a classe liro dentro de usuário com autor
+	Resiltado Esperado:
+		Criar livro sem incluir o atributo autor
+	Log de erro:
+[*] Start mutation process:
+   - targets: livro
+   - tests: test_usuario
+[*] Tests failed:
+   - (<class 'TypeError'>, TypeError('Livro.__init__() takes 4 positional arguments but 5 were given'), <traceback object at 0x7c3ed2cb3ac0>)

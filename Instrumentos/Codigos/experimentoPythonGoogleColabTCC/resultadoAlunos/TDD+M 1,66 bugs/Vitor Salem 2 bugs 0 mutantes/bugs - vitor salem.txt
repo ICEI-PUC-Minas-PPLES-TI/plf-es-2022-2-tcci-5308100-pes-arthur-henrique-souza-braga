@@ -1,0 +1,26 @@
+BUG #1:
+Descrição do problema:
+
+Na classe livro metodo set_ano_publicacao estava somando + 1 
+
+Resultado atual:
+
+ano publicacao esta configurando com +1
+
+Resultado esperado:
+
+ano publicacao ficar igual ao passado no set
+
+
+BUG #2:
+Descrição do problema:
+
+Na classe livro metodo set_disponivel estava subtraindo 1
+
+Resultado atual:
+
+disponivel que e bool esta subtraindo 1
+
+Resultado esperado:
+
+disponivel fique como bool quando setado

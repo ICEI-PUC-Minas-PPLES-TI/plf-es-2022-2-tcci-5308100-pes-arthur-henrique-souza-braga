@@ -1,0 +1,3 @@
+Falta de relação entre as tabelas de usuário e empréstimo.
+
+Dificuldade em realizar os testes nos métodos de adicionar e remover livro de usuário. Necessidade de um método mais completo ou auxiliar para verificar se os dados realmente foram adicionar ou removidos

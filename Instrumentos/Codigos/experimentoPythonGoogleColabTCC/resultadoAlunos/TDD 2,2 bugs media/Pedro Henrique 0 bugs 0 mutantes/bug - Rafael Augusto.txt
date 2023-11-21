@@ -1,0 +1,1 @@
+Na classe Livro, o atributo disponivel esta setado como inteiro, mas no diagrama e testes, espera-se um boolean.

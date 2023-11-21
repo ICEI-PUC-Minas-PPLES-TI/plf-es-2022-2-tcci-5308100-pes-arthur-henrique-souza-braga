@@ -1,0 +1,9 @@
+Descrição do problema:
+
+Na classe livro o metodo  setDisponivel() tinha um -1 que fazia o metodo n passar nos testes
+
+Resultado atual:
+
+Deve ser removido o -1
+
+Resultado esperado: o metodo n deve existir o -1

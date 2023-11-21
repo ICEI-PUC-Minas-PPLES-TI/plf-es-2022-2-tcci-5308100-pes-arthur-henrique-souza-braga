@@ -1,0 +1,27 @@
+BUG #1:
+Descrição do problema:
+
+Na classe Livro a função set_ano_publicacao a está fazendo com que coloque o valor de ano_publicacao seja o valor do parâmetro acrescido de 1
+
+Resultado atual:
+
+o ano_publicacao está acrescido do valor do parâmetro mais 1
+
+Resultado esperado:
+
+A função da classe deveria atribuir ao ano_publicação apenas a o valor que recebe por parâmetro, sem modificação interna que não esteja fazendo sentido
+
+
+BUG #2:
+Descrição do problema:
+
+Na classe Livro a função set_disponivel está fazendo com que coloque o valor do parâmetro disponivel seja o valor do parâmetro diminuído de 1
+
+Resultado atual:
+
+o parâmetro disponivel está sendo transformado de valor booleano para valor negativo
+
+Resultado esperado:
+
+A função da classe deveria atribuir ao parâmetro disponivel apenas o valor que recebe por parâmetro, sem modificação interna que não esteja fazendo sentido
+

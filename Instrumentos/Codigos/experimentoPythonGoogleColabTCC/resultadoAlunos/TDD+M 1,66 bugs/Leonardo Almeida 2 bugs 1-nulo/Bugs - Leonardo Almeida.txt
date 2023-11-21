@@ -1,0 +1,26 @@
+BUG #1:
+Descrição do problema:
+
+O ano de publicação do livro está diferente do esperado, sendo necessario fazer o ajuste na linha 31.
+
+Resultado atual:
+
+2023 != 2022
+
+Resultado esperado:
+
+"self.assertEqual(livro.get_ano_publicacao(), 2023)" -> O ano aguardado foi ajustado para 2023.
+
+
+BUG #2:
+Descrição do problema:
+
+O livro está disponivel, porem está sendo setado como indisponivel.
+
+Resultado atual:
+
+-1 is not false
+
+Resultado esperado:
+
+livro.set_disponivel(True) -> O estado do livro foi ajustado para disponivel.
